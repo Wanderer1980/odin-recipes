@@ -1,0 +1,1 @@
+For this project, I will be creating a main index page that has links to a few recipes. 
